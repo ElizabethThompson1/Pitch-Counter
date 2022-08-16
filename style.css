@@ -17,17 +17,21 @@ body {
   max-height: 90%;
 }
 
+.containerTwo {
+  font-size: 20hv;
+}
+
 h1 {
   margin-top: 70px;
   margin-bottom: 20px;
-  font-size: xx-large;
+  font-size: 20vh;
 }
 
 h2 {
   font-size: 80px;
   margin-top: 0;
   margin-bottom: 20px;
-  font-size: xx-large;
+  font-size: 20vh;
 }
 
 button {
