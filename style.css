@@ -4,21 +4,17 @@ body {
   font-family: impact, fantasy;
   font-weight: bold;
   text-align: center;
+  font-size: x-large;
 }
 
 .container {
   background: center;
   background: rgb(164, 160, 160);
-  max-width: 70%;
+  max-width: 90%;
   margin: auto;
   border: 60xp solid rgb(141, 27, 27);
   border-radius: 40px;
-  height: 70%;
-}
-.containerTwo {
-  background: center;
-  background-color: rgb(174, 178, 181);
-  height: 30%;
+  max-height: 90%;
 }
 
 h1 {
