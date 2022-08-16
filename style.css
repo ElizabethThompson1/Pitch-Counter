@@ -15,10 +15,12 @@ body {
   border: 60xp solid rgb(141, 27, 27);
   border-radius: 40px;
   max-height: 90%;
+  background: fixed;
 }
 
 .containerTwo {
   font-size: 20hv;
+  background: fixed;
 }
 
 h1 {
