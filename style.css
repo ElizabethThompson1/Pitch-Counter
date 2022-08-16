@@ -19,21 +19,21 @@ body {
 }
 
 .containerTwo {
-  font-size: 20hv;
+  font-size: 80%;
   background: fixed;
 }
 
 h1 {
   margin-top: 70px;
   margin-bottom: 20px;
-  font-size: 20vh;
+  font-size: 80%;
 }
 
 h2 {
   font-size: 80px;
   margin-top: 0;
   margin-bottom: 20px;
-  font-size: 20vh;
+  font-size: 80%;
 }
 
 button {
